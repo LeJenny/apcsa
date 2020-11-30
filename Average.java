@@ -28,4 +28,32 @@ public class Average {
 
 }
 
+/*
+Assignment 2:  Weighted Average   (The program and class name must be Average .)
+ 
+Write a program that will input a set of grades and compute a weighted average.
 
+The program should input 2 test scores (as ints), 3 quiz scores (also as ints) and a homework average (as a double).
+
+The program should then output the test average, quiz average and final grade (as doubles).
+
+The final grade should be a weighted average. Count the test average as 50% of the final grade, the quiz average as 30% of the final grade and the homework average as 20% of the final grade. 
+
+Sample Run:
+
+Please enter your test grades.
+Test 1 >89
+Test 2 >86
+
+Please enter your quiz grades.
+Quiz 1 >84
+Quiz 2 >84
+Quiz 3 >83
+
+Please enter your homework average.
+Homework >90.12
+
+>Test Average: 87.5
+>Quiz Average: 83.66666666666667
+>Final Grade: 86.874
+*/
